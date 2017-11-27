@@ -4,6 +4,20 @@ pagina web escojida: Youtube
 
 ![YOUTUBE](assets/imgs/youtube.jpg)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Partes UI::                                                              
 
 * Los colores de la marca (rojo y negro).                                  
