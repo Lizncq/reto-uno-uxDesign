@@ -4,7 +4,7 @@ pagina web escojida: Youtube
 
 ![YOUTUBE](assets/imgs/youtube.jpg)
 
-## Partes UI:                                                              
+## Partes UI::                                                              
 
 * Los colores de la marca (rojo y negro).                                  
 * El color de fondo de la pagina (blanco)                                  
@@ -18,7 +18,7 @@ pagina web escojida: Youtube
 * tamaño por defecto de un video al empezar a visualizarlo.
 * color de la barra de avance de visualiación del video.
 
-## Partes UX:
+## Partes UX::
 
 * Que pueda continuar viendo videos relacionados al que el usuario está viendo en ese momento, en modo automático y también poder desactivar ese modo  para no seguir viendo videos relacionados.                                                                                  
 * Que el usuario pueda escojer la red social que desee para compartir un video.
