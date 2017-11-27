@@ -2,7 +2,7 @@
 ## Elige una web de tu preferencia y explica qué partes conforman el UX y qué partes el UI
 pagina web escojida: Youtube
 
-![YOUTUBE](assets/youtube.jpg)
+![YOUTUBE](../assets/youtube.jpg)
 
 ## Partes UI:                                                              
 
